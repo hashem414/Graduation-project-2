@@ -1,0 +1,2 @@
+conf_threshold,gt_team_a,gt_team_b,gt_players,gt_referees,gt_balls,team_a_detection_recall,team_b_detection_recall,player_detection_recall,ball_recall,referee_recall,referee_wrong_as_player_rate,player_wrong_as_referee_rate,total_predicted_players,total_predicted_referees,total_predicted_balls
+0.25,3115,3158,6273,787,641,0.9817,0.9804,0.981,0.5616,0.8895,0.1461,0.0016,6740,753,447

@@ -1,0 +1,2 @@
+experiment,model,dataset,imgsz,epochs,batch,mAP50,mAP50_95,precision_mean,recall_mean
+hf_football_3cls_swapped_960,/kaggle/working/three_class_swapped_experiments/hf_football_3cls_swapped_960/weights/best.pt,/kaggle/working/football_yolo_dataset_3cls_swapped,960,80,8,0.8458807325766121,0.42014998718688173,0.8854517812172243,0.8108463742878507
