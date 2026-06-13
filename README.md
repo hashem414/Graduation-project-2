@@ -3,9 +3,9 @@ README
 
 Project Title: Automated Football Analytics for the Jordanian Pro League Using Computer Vision
 
-Research Paper (Overleaf): [Paste Overleaf Link Here]
+Research Paper (Overleaf): https://www.overleaf.com/read/wsvhhymxqbbn#1adbec
 
-GitHub Repository: [Paste GitHub Repository Link Here]
+GitHub Repository: https://github.com/hashem414/Graduation-project-2
 
 
 1. OVERVIEW
