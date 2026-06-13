@@ -1,0 +1,10 @@
+path: C:\Users\ONE BY ONE\OneDrive - just.edu.jo\Desktop\DataSet_sec\football_yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+nc: 4
+names:
+- player_team1
+- player_team2
+- ball
+- referee
